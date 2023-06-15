@@ -1,3 +1,4 @@
 # Welcome to ThouTalk
 
-more content coming soon!
+[Privacy Policy](privacy-policy)
+
